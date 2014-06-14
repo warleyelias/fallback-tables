@@ -3,297 +3,356 @@
     "20000001": {
       "cep_end": "23799999",
       "state": "RJ ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "23800000": {
       "cep_end": "28999999",
       "state": "RJ ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "29000001": {
       "cep_end": "29099999",
       "state": "ES ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "29100000": {
       "cep_end": "29999999",
       "state": "ES ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "30000001": {
       "cep_end": "31999999",
       "state": "MG ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "32000000": {
       "cep_end": "39999999",
       "state": "MG ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "40000001": {
       "cep_end": "42599999",
       "state": "BA ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "42600000": {
       "cep_end": "48999999",
       "state": "BA ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "49000001": {
       "cep_end": "49099999",
       "state": "SE ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "49100000": {
       "cep_end": "49999999",
       "state": "SE ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "50000001": {
       "cep_end": "52999999",
       "state": "PE ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "53000000": {
       "cep_end": "56999999",
       "state": "PE ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "57000001": {
       "cep_end": "57099999",
       "state": "AL ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "57100000": {
       "cep_end": "57999999",
       "state": "AL ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "58000001": {
       "cep_end": "58099999",
       "state": "PB ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "58100000": {
       "cep_end": "58999999",
       "state": "PB ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "59000001": {
       "cep_end": "59139999",
       "state": "RN ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "59140000": {
       "cep_end": "59999999",
       "state": "RN ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "60000001": {
       "cep_end": "61599999",
       "state": "CE ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "61600000": {
       "cep_end": "63999999",
       "state": "CE ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "64000001": {
       "cep_end": "64099999",
       "state": "PI ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "64100000": {
       "cep_end": "64999999",
       "state": "PI ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "65000001": {
       "cep_end": "65109999",
       "state": "MA ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "65110000": {
       "cep_end": "65999999",
       "state": "MA ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "66000001": {
       "cep_end": "66999999",
       "state": "PA ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "67000000": {
       "cep_end": "68899999",
       "state": "PA ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "68900001": {
       "cep_end": "68914999",
       "state": "AP ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "68915000": {
       "cep_end": "68999999",
       "state": "AP ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "69000001": {
       "cep_end": "69099999",
       "state": "AM ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "69100000": {
       "cep_end": "69299999",
       "state": "AM ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "69300001": {
       "cep_end": "69339999",
       "state": "RR ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "69340000": {
       "cep_end": "69399999",
       "state": "RR ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "69400000": {
       "cep_end": "69899999",
       "state": "AM ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "69900001": {
       "cep_end": "69920999",
       "state": "AC ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "69921000": {
       "cep_end": "69999999",
       "state": "AC ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "70000001": {
       "cep_end": "72799999",
       "state": "DF ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "72800000": {
       "cep_end": "72999999",
       "state": "GO ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "73000000": {
       "cep_end": "73699999",
       "state": "DF ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "73700000": {
       "cep_end": "73999999",
       "state": "GO ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "74000001": {
       "cep_end": "74899999",
       "state": "GO ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "74900000": {
       "cep_end": "76799999",
       "state": "GO ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "76800001": {
       "cep_end": "76849999",
       "state": "RO ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "76850000": {
       "cep_end": "76999999",
       "state": "RO ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "77000001": {
       "cep_end": "77299999",
       "state": "TO ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "77300000": {
       "cep_end": "77999999",
       "state": "TO ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "78109999": {
       "cep_end": "78110000",
       "state": "MT ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "78110001": {
       "cep_end": "78899999",
       "state": "MT ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "79000001": {
       "cep_end": "79129999",
       "state": "MS ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "79130000": {
       "cep_end": "79999999",
       "state": "MS ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "80000001": {
       "cep_end": "82999999",
       "state": "PR ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "83000000": {
       "cep_end": "87999999",
       "state": "PR ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "88000001": {
       "cep_end": "88099999",
       "state": "SC ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "88100000": {
       "cep_end": "89999999",
       "state": "SC ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "90000001": {
       "cep_end": "91999999",
       "state": "RS ",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "92000000": {
       "cep_end": "99999999",
       "state": "RS ",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "01000001": {
       "cep_end": "05999999",
       "state": "SP",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "06000000": {
       "cep_end": "07999999",
       "state": "SP",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     },
     "08000000": {
       "cep_end": "08499999",
       "state": "SP",
-      "type": "CAPITAL"
+      "type": "CAPITAL",
+      "delivery_estimate_business_days": "2"
     },
     "08500000": {
       "cep_end": "19999999",
       "state": "SP",
-      "type": "INTERIOR"
+      "type": "INTERIOR",
+      "delivery_estimate_business_days": "2"
     }
   }
 ]
