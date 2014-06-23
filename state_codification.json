@@ -200,6 +200,11 @@
       "state": "GO ",
       "type": "INTERIOR"
     },
+    "73000000": {
+      "cep_end": "73699999",
+      "state": "DF ",
+      "type": "INTERIOR"
+    },
     "73700000": {
       "cep_end": "73999999",
       "state": "GO ",
@@ -279,6 +284,11 @@
       "cep_end": "91999999",
       "state": "RS ",
       "type": "CAPITAL"
+    },
+    "92000001": {
+      "cep_end": "99999999",
+      "state": "RS ",
+      "type": "INTERIOR"
     },
     "01000000": {
       "cep_end": "05999999",
