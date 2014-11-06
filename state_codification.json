@@ -175,30 +175,10 @@
       "state": "AC ",
       "type": "INTERIOR"
     },
-    "70000000": {
-      "cep_end": "70639999",
+    "70000001": {
+      "cep_end": "72799999 ",
       "state": "DF ",
       "type": "CAPITAL"
-    },
-    "70640000": {
-      "cep_end": "70699999",
-      "state": "DF ",
-      "type": "INTERIOR"
-    },
-    "70700000": {
-      "cep_end": "70999999",
-      "state": "DF ",
-      "type": "CAPITAL"
-    },
-    "71000000": {
-      "cep_end": "736993999",
-      "state": "DF ",
-      "type": "INTERIOR"
-    },
-    "72800000": {
-      "cep_end": "72999999",
-      "state": "GO ",
-      "type": "INTERIOR"
     },
     "73000000": {
       "cep_end": "73699999",
@@ -210,7 +190,7 @@
       "state": "GO ",
       "type": "INTERIOR"
     },
-    "74000000": {
+    "74000001": {
       "cep_end": "74899999",
       "state": "GO ",
       "type": "CAPITAL"
@@ -308,6 +288,11 @@
     "08500000": {
       "cep_end": "19999999",
       "state": "SP",
+      "type": "INTERIOR"
+    },
+    "72800000 ": {
+      "cep_end": "72999999",
+      "state": "GO ",
       "type": "INTERIOR"
     }
   }
