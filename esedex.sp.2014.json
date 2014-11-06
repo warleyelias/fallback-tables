@@ -22,7 +22,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 7.07,
         "1000": 11.46,
@@ -66,7 +66,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 14.26,
         "1000": 22.45,
@@ -110,7 +110,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 14.26,
         "1000": 22.45,
@@ -154,7 +154,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 14.26,
         "1000": 22.45,
@@ -198,7 +198,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 14.26,
         "1000": 22.45,
@@ -242,7 +242,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 15.18,
         "1000": 22.75,
@@ -286,7 +286,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 15.18,
         "1000": 22.75,
@@ -330,7 +330,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 13.66,
         "1000": 20.24,
@@ -374,7 +374,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 15.18,
         "1000": 22.75,
@@ -418,7 +418,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 22.64,
         "1000": 35.96,
@@ -462,7 +462,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 22.64,
         "1000": 35.96,
@@ -506,7 +506,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 22.64,
         "1000": 35.96,
@@ -550,7 +550,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 22.64,
         "1000": 35.96,
@@ -594,7 +594,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 22.64,
         "1000": 35.96,
@@ -638,7 +638,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 22.64,
         "1000": 35.96,
@@ -682,7 +682,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 22.64,
         "1000": 35.96,
@@ -726,7 +726,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 20,
       "final_shipping_cost": {
         "500": 25.33,
         "1000": 42.39,
@@ -770,7 +770,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 20,
       "final_shipping_cost": {
         "500": 25.33,
         "1000": 42.39,
@@ -814,7 +814,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 25.33,
         "1000": 42.39,
@@ -858,7 +858,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 25.33,
         "1000": 42.39,
@@ -902,7 +902,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 25.33,
         "1000": 42.39,
@@ -946,7 +946,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 25.33,
         "1000": 42.39,
@@ -990,7 +990,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 25.33,
         "1000": 42.39,
@@ -1034,7 +1034,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 20,
       "final_shipping_cost": {
         "500": 25.33,
         "1000": 42.39,
@@ -1078,7 +1078,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 20,
       "final_shipping_cost": {
         "500": 25.33,
         "1000": 42.39,
@@ -1122,7 +1122,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 15.18,
         "1000": 22.75,
@@ -1166,7 +1166,7 @@
       }
     },
     "Interior": {
-      "delivery_estimate_business_days": 4,
+      "delivery_estimate_business_days": 10,
       "final_shipping_cost": {
         "500": 22.64,
         "1000": 35.96,
