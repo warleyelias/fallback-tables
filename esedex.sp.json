@@ -43,7 +43,7 @@
       }
     }
   },
-  "MG ": {
+  "MG": {
     "Capital": {
       "delivery_estimate_business_days": 4,
       "final_shipping_cost": {
@@ -131,7 +131,7 @@
       }
     }
   },
-  "Rj": {
+  "RJ": {
     "Capital": {
       "delivery_estimate_business_days": 4,
       "final_shipping_cost": {
