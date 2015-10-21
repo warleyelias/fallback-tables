@@ -1,299 +1,284 @@
 [
   {
-    "20000000": {
+	"1000001": {
+      "cep_end": "9999999",
+      "state": "SP",
+      "type": "CAPITAL"
+    },
+	"11000001": {
+      "cep_end": "19990000",
+      "state": "SP",
+      "type": "INTERIOR"
+    },
+	"20000001": {
       "cep_end": "23799999",
-      "state": "RJ ",
+      "state": "RJ",
       "type": "CAPITAL"
     },
-    "23800000": {
-      "cep_end": "28999999",
-      "state": "RJ ",
+	"23800001": {
+      "cep_end": "28997000",
+      "state": "RJ",
       "type": "INTERIOR"
     },
-    "29000000": {
+	"29000001": {
       "cep_end": "29099999",
-      "state": "ES ",
+      "state": "RJ",
       "type": "CAPITAL"
     },
-    "29100001": {
-      "cep_end": "29999999",
-      "state": "ES ",
+	"29100001": {
+      "cep_end": "29980000",
+      "state": "ES",
       "type": "INTERIOR"
     },
-    "30000000": {
+	"30000001": {
       "cep_end": "31999999",
-      "state": "MG ",
+      "state": "MG",
       "type": "CAPITAL"
     },
-    "32000000": {
-      "cep_end": "39999999",
-      "state": "MG ",
+	"32000001": {
+      "cep_end": "39995000",
+      "state": "MG",
       "type": "INTERIOR"
     },
-    "40000000": {
+	"40000001": {
       "cep_end": "42599999",
-      "state": "BA ",
+      "state": "BA",
       "type": "CAPITAL"
     },
-    "42600000": {
-      "cep_end": "48999999",
-      "state": "BA ",
+	"42600000": {
+      "cep_end": "48990000",
+      "state": "BA",
       "type": "INTERIOR"
     },
-    "49000001": {
+	"49000001": {
       "cep_end": "49098999",
-      "state": "SE ",
+      "state": "SE",
       "type": "CAPITAL"
     },
-    "49100000": {
-      "cep_end": "49999999",
-      "state": "SE ",
+	"49100000": {
+      "cep_end": "49995000",
+      "state": "SE",
       "type": "INTERIOR"
     },
-    "50000000": {
+	"50000001": {
       "cep_end": "52999999",
-      "state": "PE ",
+      "state": "PE",
       "type": "CAPITAL"
     },
-    "53000000": {
-      "cep_end": "56999999",
-      "state": "PE ",
+	"53000001": {
+      "cep_end": "56980000",
+      "state": "PE",
       "type": "INTERIOR"
     },
-    "57000000": {
+	"57000001": {
       "cep_end": "57099999",
-      "state": "AL ",
+      "state": "AL",
       "type": "CAPITAL"
     },
-    "57100000": {
-      "cep_end": "57999999",
-      "state": "AL ",
+	"57100000": {
+      "cep_end": "57995000",
+      "state": "AL",
       "type": "INTERIOR"
     },
-    "58000000": {
+	"58000001": {
       "cep_end": "58099999",
-      "state": "PB ",
+      "state": "PB",
       "type": "CAPITAL"
     },
-    "58100001": {
-      "cep_end": "58999999",
-      "state": "PB ",
+	"58100001": {
+      "cep_end": "58995000",
+      "state": "PB",
       "type": "INTERIOR"
     },
-    "59000000": {
+	"59000001": {
       "cep_end": "59139999",
-      "state": "RN ",
+      "state": "RN",
       "type": "CAPITAL"
     },
-    "59140001": {
-      "cep_end": "59999999",
-      "state": "RN ",
+	"59140001": {
+      "cep_end": "59995000",
+      "state": "RN",
       "type": "INTERIOR"
     },
-    "60000000": {
+	"60000001": {
       "cep_end": "61599999",
-      "state": "CE ",
+      "state": "CE",
       "type": "CAPITAL"
     },
-    "61600001": {
-      "cep_end": "63999999",
-      "state": "CE ",
+	"61600001": {
+      "cep_end": "63970000",
+      "state": "CE",
       "type": "INTERIOR"
     },
-    "64000001": {
+	"64000001": {
       "cep_end": "64099999",
-      "state": "PI ",
+      "state": "PI",
       "type": "CAPITAL"
     },
-    "64100000": {
-      "cep_end": "64999999",
-      "state": "PI ",
+	"64100000": {
+      "cep_end": "64995000",
+      "state": "PI",
       "type": "INTERIOR"
     },
-    "65000000": {
-      "cep_end": "65099999",
-      "state": "MA ",
+	"65000001": {
+      "cep_end": "65109999",
+      "state": "MA",
       "type": "CAPITAL"
     },
-    "65100000": {
-      "cep_end": "65999999",
-      "state": "MA ",
+	"65110000": {
+      "cep_end": "65995000",
+      "state": "MA",
       "type": "INTERIOR"
-    },
-    "66000000": {
+    },	
+	"66000001": {
       "cep_end": "66999999",
-      "state": "PA ",
+      "state": "PA",
       "type": "CAPITAL"
     },
-    "67000000": {
-      "cep_end": "68899999",
-      "state": "PA ",
+	"67000001": {
+      "cep_end": "68890000",
+      "state": "PA",
       "type": "INTERIOR"
     },
-    "68900001": {
+	"68900001": {
       "cep_end": "68911999",
-      "state": "AP ",
+      "state": "AP",
       "type": "CAPITAL"
     },
-    "68912300": {
-      "cep_end": "68999999",
-      "state": "AP ",
+	"68915000": {
+      "cep_end": "68997000",
+      "state": "AP",
       "type": "INTERIOR"
     },
-    "69000001": {
+	"69000001": {
       "cep_end": "69099999",
-      "state": "AM ",
+      "state": "AM",
       "type": "CAPITAL"
     },
-    "69100001": {
-      "cep_end": "69299999",
-      "state": "AM ",
+	"69100001": {
+      "cep_end": "69280000",
+      "state": "AM",
       "type": "INTERIOR"
     },
-    "69300000": {
+	"69300001": {
       "cep_end": "69339999",
-      "state": "RR ",
+      "state": "RR",
       "type": "CAPITAL"
     },
-    "69340000": {
-      "cep_end": "69399999",
-      "state": "RR ",
+	"69340000": {
+      "cep_end": "69390000",
+      "state": "RR",
       "type": "INTERIOR"
     },
-    "69400001": {
-      "cep_end": "69899999",
-      "state": "AM ",
+	"69400001": {
+      "cep_end": "69895000",
+      "state": "AM",
       "type": "INTERIOR"
     },
-    "69900001": {
+	"69900001": {
       "cep_end": "69923999",
-      "state": "AC ",
+      "state": "AC",
       "type": "CAPITAL"
     },
-    "69925000": {
-      "cep_end": "69990999",
-      "state": "AC ",
+	"69925000": {
+      "cep_end": "69990000",
+      "state": "AC",
       "type": "INTERIOR"
     },
-    "70000001": {
-      "cep_end": "72799999 ",
-      "state": "DF ",
+	"70000001": {
+      "cep_end": "72799999",
+      "state": "DF",
       "type": "CAPITAL"
     },
-    "73000000": {
+	"72800001": {
+      "cep_end": "72859999",
+      "state": "GO",
+      "type": "CAPITAL"
+    },
+	"72860001": {
+      "cep_end": "72980000",
+      "state": "GO",
+      "type": "INTERIOR"
+    },
+	"73000001": {
       "cep_end": "73699999",
-      "state": "DF ",
-      "type": "INTERIOR"
-    },
-    "73700000": {
-      "cep_end": "73999999",
-      "state": "GO ",
-      "type": "INTERIOR"
-    },
-    "74000001": {
-      "cep_end": "74899999",
-      "state": "GO ",
+      "state": "DF",
       "type": "CAPITAL"
     },
-    "74900000": {
-      "cep_end": "76799999",
-      "state": "GO ",
+	"73700000": {
+      "cep_end": "76740000",
+      "state": "GO",
       "type": "INTERIOR"
     },
-    "76800001": {
+	"76800001": {
       "cep_end": "76834999",
-      "state": "RO ",
+      "state": "RO",
       "type": "CAPITAL"
     },
-    "76835000": {
-      "cep_end": "76999999",
-      "state": "RO ",
+	"76850000": {
+      "cep_end": "76999000",
+      "state": "RO",
       "type": "INTERIOR"
     },
-    "77000001": {
-      "cep_end": "77299999",
-      "state": "TO ",
+	"77000001": {
+      "cep_end": "77249999",
+      "state": "TO",
       "type": "CAPITAL"
     },
-    "77300000": {
-      "cep_end": "77999999",
-      "state": "TO ",
+	"77303000": {
+      "cep_end": "77995000",
+      "state": "TO",
       "type": "INTERIOR"
     },
-    "78000001": {
+	"78000001": {
       "cep_end": "78099999",
-      "state": "MT ",
+      "state": "MT",
       "type": "CAPITAL"
     },
-    "78110001": {
-      "cep_end": "78899999",
-      "state": "MT ",
+	"78110001": {
+      "cep_end": "78890000",
+      "state": "MT",
       "type": "INTERIOR"
     },
-    "79000000": {
-      "cep_end": "79129999",
-      "state": "MS ",
+	"79000001": {
+      "cep_end": "79124999",
+      "state": "MS",
       "type": "CAPITAL"
     },
-    "79130000": {
-      "cep_end": "79999999",
-      "state": "MS ",
+	"79140000": {
+      "cep_end": "79995000",
+      "state": "MS",
       "type": "INTERIOR"
     },
-    "80000000": {
+	"80000001": {
       "cep_end": "82999999",
-      "state": "PR ",
+      "state": "PR",
       "type": "CAPITAL"
     },
-    "83000001": {
-      "cep_end": "87999999",
-      "state": "PR ",
+	"83000001": {
+      "cep_end": "87990000",
+      "state": "PR",
       "type": "INTERIOR"
     },
-    "88000001": {
+	"88000001": {
       "cep_end": "88099999",
-      "state": "SC ",
+      "state": "SC",
       "type": "CAPITAL"
     },
-    "88100001": {
-      "cep_end": "89999999",
-      "state": "SC ",
+	"88100001": {
+      "cep_end": "89998000",
+      "state": "SC",
       "type": "INTERIOR"
     },
-    "90000000": {
+	"90000001": {
       "cep_end": "91999999",
-      "state": "RS ",
+      "state": "RS",
       "type": "CAPITAL"
     },
-    "92000001": {
-      "cep_end": "99999999",
-      "state": "RS ",
+	"92000001": {
+      "cep_end": "92990000",
+      "state": "RS",
       "type": "INTERIOR"
-    },
-    "01000000": {
-      "cep_end": "05999999",
-      "state": "SP",
-      "type": "CAPITAL"
-    },
-    "06000000": {
-      "cep_end": "07999999",
-      "state": "SP",
-      "type": "INTERIOR"
-    },
-    "08000000": {
-      "cep_end": "08499999",
-      "state": "SP",
-      "type": "CAPITAL"
-    },
-    "08500000": {
-      "cep_end": "19999999",
-      "state": "SP",
-      "type": "INTERIOR"
-    },
-    "72800000 ": {
-      "cep_end": "72999999",
-      "state": "GO ",
-      "type": "INTERIOR"
-    }
+    }	
   }
 ]
