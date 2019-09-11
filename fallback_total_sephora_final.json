@@ -1,0 +1,380 @@
+{
+  "SP": {
+    "Capital": {
+      "delivery_estimate_business_days": 4,
+      "final_shipping_cost": {
+        "7000": 15.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 5,
+      "final_shipping_cost": {
+        "7000": 15.00
+      }
+    }
+  },
+  "MG": {
+    "Capital": {
+      "delivery_estimate_business_days": 4,
+      "final_shipping_cost": {
+     "7000": 15.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 8,
+      "final_shipping_cost": {
+      "7000": 15.00
+      }
+    }
+  },
+  "PR": {
+    "Capital": {
+      "delivery_estimate_business_days": 4,
+      "final_shipping_cost": {
+      "7000": 15.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 9,
+      "final_shipping_cost": {
+     "7000": 15.00
+      }
+    }
+  },
+  "RJ": {
+    "Capital": {
+      "delivery_estimate_business_days": 4,
+      "final_shipping_cost": {
+      "7000": 15.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 8,
+      "final_shipping_cost": {
+       "7000": 15.00
+      }
+    }
+  },
+  "SC": {
+    "Capital": {
+      "delivery_estimate_business_days": 5,
+      "final_shipping_cost": {
+      "7000": 15.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 9,
+      "final_shipping_cost": {
+       "7000": 15.00
+      }
+    }
+  },
+  "DF": {
+    "Capital": {
+      "delivery_estimate_business_days": 6,
+      "final_shipping_cost": {
+        "7000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 6,
+      "final_shipping_cost": {
+        "7000": 17.00
+      }
+    }
+  },
+  "ES": {
+    "Capital": {
+      "delivery_estimate_business_days": 5,
+      "final_shipping_cost": {
+       "7000": 15.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 7,
+      "final_shipping_cost": {
+       "7000": 15.00
+      }
+    }
+  },
+  "GO": {
+    "Capital": {
+      "delivery_estimate_business_days": 6,
+      "final_shipping_cost": {
+        "7000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 9,
+      "final_shipping_cost": {
+       "7000": 17.00
+      }
+    }
+  },
+  "RS": {
+    "Capital": {
+      "delivery_estimate_business_days": 5,
+      "final_shipping_cost": {
+       "7000": 15.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 9,
+      "final_shipping_cost": {
+       "7000": 15.00
+      }
+    }
+  },
+  "AL": {
+    "Capital": {
+      "delivery_estimate_business_days": 6,
+      "final_shipping_cost": {
+        "7000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 9,
+      "final_shipping_cost": {
+      "7000": 17.00
+      }
+    }
+  },
+  "BA": {
+    "Capital": {
+      "delivery_estimate_business_days": 5,
+      "final_shipping_cost": {
+       "7000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 11,
+      "final_shipping_cost": {
+       "7000": 17.00
+      }
+    }
+  },
+  "MT": {
+    "Capital": {
+      "delivery_estimate_business_days": 8,
+      "final_shipping_cost": {
+       "7000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 14,
+      "final_shipping_cost": {
+       "7000": 17.00
+      }
+    }
+  },
+  "PB": {
+    "Capital": {
+      "delivery_estimate_business_days": 7,
+      "final_shipping_cost": {
+     "7000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 11,
+      "final_shipping_cost": {
+       "7000": 17.00
+      }
+    }
+  },
+  "PE": {
+    "Capital": {
+      "delivery_estimate_business_days": 7,
+      "final_shipping_cost": {
+       "7000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 9,
+      "final_shipping_cost": {
+       "7000": 17.00
+      }
+    }
+  },
+  "SE": {
+    "Capital": {
+      "delivery_estimate_business_days": 6,
+      "final_shipping_cost": {
+      "7000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 8,
+      "final_shipping_cost": {
+        "7000": 17.00
+      }
+    }
+  },
+  "TO": {
+    "Capital": {
+      "delivery_estimate_business_days": 7,
+      "final_shipping_cost": {
+        "7000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 14,
+      "final_shipping_cost": {
+       "7000": 17.00
+      }
+    }
+  },
+  "AC": {
+    "Capital": {
+      "delivery_estimate_business_days": 15,
+      "final_shipping_cost": {
+        "15000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 21,
+      "final_shipping_cost": {
+        "15000": 39.00
+      }
+    }
+  },
+  "AM": {
+    "Capital": {
+      "delivery_estimate_business_days": 14,
+      "final_shipping_cost": {
+        "15000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 38,
+      "final_shipping_cost": {
+        "15000": 39.00
+      }
+    }
+  },
+  "AP": {
+    "Capital": {
+      "delivery_estimate_business_days": 17,
+      "final_shipping_cost": {
+        "7000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 16,
+      "final_shipping_cost": {
+        "7000": 17.00
+      }
+    }
+  },
+  "MA": {
+    "Capital": {
+      "delivery_estimate_business_days": 8,
+      "final_shipping_cost": {
+       "7000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 16,
+      "final_shipping_cost": {
+       "7000": 17.00
+      }
+    }
+  },
+  "PA": {
+    "Capital": {
+      "delivery_estimate_business_days": 8,
+      "final_shipping_cost": {
+        "7000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 21,
+      "final_shipping_cost": {
+        "7000": 17.00
+      }
+    }
+  },
+  "PI": {
+    "Capital": {
+      "delivery_estimate_business_days": 10,
+      "final_shipping_cost": {
+       "7000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 15,
+      "final_shipping_cost": {
+        "7000": 17.00
+      }
+    }
+  },
+  "RN": {
+    "Capital": {
+      "delivery_estimate_business_days": 6,
+      "final_shipping_cost": {
+        "7000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 9,
+      "final_shipping_cost": {
+       "7000": 17.00
+      }
+    }
+  },
+  "RO": {
+    "Capital": {
+      "delivery_estimate_business_days": 9,
+      "final_shipping_cost": {
+        "15000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 24,
+      "final_shipping_cost": {
+	  "15000": 39.00
+      }
+    }
+  },
+  "RR": {
+    "Capital": {
+      "delivery_estimate_business_days": 14,
+      "final_shipping_cost": {
+        "15000": 39.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 21,
+      "final_shipping_cost": {
+        "15000": 39.00
+      }
+    }
+  },
+  "MS": {
+    "Capital": {
+      "delivery_estimate_business_days": 8,
+      "final_shipping_cost": {
+        "7000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 10,
+      "final_shipping_cost": {
+        "7000": 17.00
+      }
+    }
+  },
+  "CE": {
+    "Capital": {
+      "delivery_estimate_business_days": 7,
+      "final_shipping_cost": {
+        "7000": 17.00
+      }
+    },
+    "Interior": {
+      "delivery_estimate_business_days": 9,
+      "final_shipping_cost": {
+       "7000": 17.00
+      }
+    }
+  }
+}
