@@ -1,12 +1,7 @@
-fallback-tables
+Tabelas de Contigencia (fallback-tables)
 ===============
 
-Provides emergency quoting to code snippets and plugins in case of API downtime or slow response..
+Ajuda o varejista a fazer cotações de frete em caso que a API da intelipost estiver lento ou com downtime. 
 
-Updates
---------------------
-## 2014-06-23
-- Adapted coverage area
-- Adapted Interior/Capital classification
-- Added esedex.sp
-- Added state_codification
+Como funciona?
+===============
